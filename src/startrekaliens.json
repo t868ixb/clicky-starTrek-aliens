@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Lurian",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_2.jpg",
+    "firstAppearance": "Star Trek: Deep Space Nine “The Emissary” (1993)"
+  },
+  {
+    "id": 2,
+    "name": "Salt Vampire",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_10.jpg?itok=7wvoll7x",
+    "firstAppearance": "Star Trek: The Original Series 'The Man Trap' (1966)"
+  },
+  {
+    "id": 3,
+    "name": "El-Aurians",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_16.jpg?itok=5p08bZ9o",
+    "firstAppearance": "Star Trek: The Next Generation 'The Child' (1988)"
+  },
+  {
+    "id": 4,
+    "name": "Tellarites",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_17.jpg?itok=zPwR32HN",
+    "firstAppearance": "Star Trek: The Original Series 'Journey to Babel' (1967)"
+  },
+  {
+    "id": 5,
+    "name": "Vulcans",
+    "image": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_4.png",
+    "firstAppearance": "Star Trek Pilot 'The Cage' (1965)"
+  },
+  {
+    "id": 6,
+    "name": "Changeling",
+    "image": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_3.png?itok=Ju6bMiSR",
+    "firstAppearance": "Star Trek: Deep Space Nine 'The Emissary' (1993)"
+  },
+  {
+    "id": 7,
+    "name": "8472",
+    "image": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_19.jpg?itok=0zN7Z5Dt",
+    "firstAppearance": "Star Trek: Voyager Part 1 (1997)"
+  },
+  {
+    "id": 8,
+    "name": "Gorn",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_20.jpg?itok=qIvGHu9H",
+    "firstAppearance": "Star Trek: The Original Series 'Arena' (1967)"
+  },
+  {
+    "id": 9,
+    "name": "Ferengi",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_34.jpg?itok=L7fR9JKX",
+    "firstAppearance": "Star Trek: The Next Generation 'The Last Outpost' (1987)"
+  },
+  {
+    "id": 10,
+    "name": "Q",
+    "image": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_36.jpg?itok=G2TZLolJ",
+    "firstAppearance": "Star Trek: The Next Generation 'Encounter at Farpoint' (1987)"
+  },
+  {
+    "id": 11,
+    "name": "Andorians",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_33.jpg",
+    "firstAppearance": "Star Trek: The Original Series 'Journey to Babel' (1968)"
+  },
+  {
+    "id": 12,
+    "name": "Borg",
+    "image": "https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/article_width/public/2016/09/trek_39.jpg?itok=OWlILLU8",
+    "firstAppearance": "Star Trek: The Next Generation 'Q Who' (1989)"
+  }
+]
